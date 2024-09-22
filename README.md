@@ -2,7 +2,7 @@
 
 An `"open or die"` general public friendly with copyleft effect open-source
 license for [(Holloway) Chew, Kean Ho](https://github.com/ChewKeanHo) product
-licensing purposes. This version referenced from
+licensing purposes. This license is referenced from
 [FSF's GPLv2 License](https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt) and
 [FSF's GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.txt) but was written
 based on
@@ -20,16 +20,15 @@ notable alteration are:
 4. No inclusion of software lockdown prohibition (known as "tivoization")
    clauses where the prohibition itself is perceived as an restrictive right to
    use and there are valid use cases such as secure initialization/booting
-   using digital signatures; AND
+   using cryptographic digital signature verification; AND
 5. No inclusion of patent for GPLv2 compatibility but explictly stated that the
    license overrules any patent, trade secret, or any secrecy's
    terms and conditions when they are contributed into the Product which nullify
    their exclusivities. The Contributor that does this knowingly or unknowingly
    shall bear full responsibility including legal actions from the stakeholders.
 
-> **WARNING**
->
-> **When in doubts OR without absolute certainty, stay clear of this license. **
+> **WARNING: When in doubts OR without absolute certainty, stay clear of this
+> license.**
 
 
 
@@ -224,8 +223,7 @@ The following are the license notice within the supported languages:
 
 Note that the clause within the curly brace `{...}` is optional and only retain
 it (by removing the braces only) if the content is to be designated as an
-externally available Interface so the copyleft effect is limited until here.
-
+externally available Interface so the copyleft effect is limited until herein.
 Otherwise, remove the entire clause.
 
 ```
@@ -235,7 +233,7 @@ Licensed under the (Holloway) Chew, Kean Ho’s General Public Open Source Licen
 (the "License"); you may not use this file except in compliance with the
 License. You may obtain a copy of the License at
 
-                 https://doi.org/10.5281/zenodo.13825030
+                   https://doi.org/10.5281/zenodo.13825030
 
 {Under this License, the Content of this section is designated as a general
 public friendly externally usable Interface where its copyleft effect shall
