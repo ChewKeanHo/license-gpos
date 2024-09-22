@@ -1,0 +1,225 @@
+cff-version: "1.2.0"
+type: "software"
+date-released: "2024-09-22"
+title: "(Holloway) Chew, Kean Ho's General Public Open Source License"
+version: "0.0.1"
+license: "CC-BY-ND-4.0"
+repository: "https://github.com/ChewKeanHo/license-cos"
+repository-code: "https://github.com/ChewKeanHo/license-cos"
+repository-artifact: "https://github.com/ChewKeanHo/license-cos/releases"
+url: "https://doi.org/10.5281/zenodo.13788522"
+contact:
+  - affiliation: "(Holloway) Chew, Kean Ho"
+    email: "hello@hollowaykeanho.com"
+    website: "https://www.hollowaykeanho.com"
+abstract: |-
+  An "open or die" general public friendly with copyleft effect open-source
+  license for "(Holloway) Chew, Kean Ho" (https://github.com/ChewKeanHo)
+  product licensing purposes. This version referenced from FSF's GPLv2 License
+  (https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt) and
+  FSF's GPLv3 License (https://www.gnu.org/licenses/gpl-3.0.txt) but was written
+  based on Open Source Initiative's Apache 2.0 License
+  (https://opensource.org/license/apache-2-0) as its baseline to produce a more
+  reader friendly license file. Among the notable alteration are:
+
+  (1) Changed "Software" to "Product" so that the license can be expanded to
+      non-software product licensing usage (e.g. graphics, video, manufacturing
+      design, etc) without needing to spin multiple licenses; AND
+  (2) Added license assignment, ratification, and tenure section to specify when
+      and how is the license applied; AND
+  (3) Added version controlled clauses for which version shall be in effect by
+      default; AND
+  (4) No inclusion of software lockdown prohibition (known as "tivoization")
+      clauses where the prohibition itself is perceived as an restrictive right
+      to use and there are valid use cases such as secure initialization/booting
+      using digital signatures; AND
+  (5) No inclusion of patent for GPLv2 compatibility but explictly stated that
+      the license overrules any patent, trade secret, or any secrecy's
+      terms and conditions when they are contributed into the Product which
+      nullify their exclusivities. The Contributor that does this knowingly or
+      unknowingly shall bear full responsibility including legal actions from
+      the stakeholders.
+
+  Hence, as a WARNING, when in doubts OR without absolute certainty, stay clear
+  of this license.
+
+  This repository is version controlled using "semantic versioning"
+  (https://semver.org/) definitions where:
+
+  (1) the "MAJOR" version denotes major legal changes; AND
+  (2) the "MINOR" version denotes minor changes without altering the legal
+      implication side of things such as but not limited to grammar correction,
+      fonts, typo, and etc; AND
+  (3) the "PATCH" version denotes the repository management changes such as but
+      not limited to new language addition, updating "README.md", and etc.
+
+  To use this license for your product licensing, you **MUST**, in layman terms,
+  do the following:
+
+  (1) You're free to use for personal deployment at your own volition as long
+      as you:
+        (1.1) **SHALL AND STRICTLY REQUIRED** to attribute to the copyright
+              holders; AND
+        (1.2) **SHALL** accept that the creators are not responsible for
+              anything of any kind; AND
+        (1.3) **SHALL** retain the copyright notices and effects of the product
+              you use, be it in its raw form (e.g. source codes) or its produced
+              form (compiled software binary files); AND
+        (1.4) **SHALL NOT** use the creators' name, brand, and trademark
+              without their written notices for any endorsement of your
+              derrivatives or uses; AND
+        (1.5) **SHALL AND ARE REQUIRED** to expose and upstream all your
+              changes in source form back to all the copyright holders all the
+              way back to the point of origin (copyleft effect) if you use the
+              product via any its undesignated interface, or creating/adding,
+              editing/modifying, remix/remaster, delete/clean up, or by any
+              other means to part/all of it; AND
+        (1.6) **SHALL** bear FULL RESPONSIBILITIES on your own if you contribute
+              unwarranted data disclosure knowingly or unknowingly into the
+              product such as but not limited to patented technologies, trade
+              secrets and etc as this license overules any terms of conditions
+              from them which exposes its limitations and exclusiveness to the
+              general public rendering them void; AND
+        (1.7) **SHALL** license and re-license all your derivatives and
+              contributions under this license (copyleft effect); AND
+  (2) You're free to use for commercial deployment at your own volition as long
+      as you:
+        (2.1) **SHALL AND STRICTLY REQUIRED** to attribute to the copyright
+              holders; AND
+        (2.2) **SHALL** accept that the creators are not responsible for
+              anything of any kind; AND
+        (2.3) **SHALL** retain the copyright notices and effects of the product
+              you use, be it in its raw form (e.g. source codes) or its produced
+              form (compiled software binary files); AND
+        (2.4) **SHALL NOT** use the creators' name, brand, and trademark
+              without their written notices for any endorsement of your
+              derrivatives or uses; AND
+        (2.5) **SHALL AND ARE REQUIRED** to expose and upstream all your
+              changes in source form back to all the copyright holders all the
+              way back to the point of origin (copyleft effect) if you use the
+              product via any its undesignated interface, or creating/adding,
+              editing/modifying, remix/remaster, delete/clean up, or by any
+              other means to part/all of it; AND
+        (2.6) **SHALL** bear FULL RESPONSIBILITIES on your own if you contribute
+              unwarranted data disclosure knowingly or unknowingly into the
+              product such as but not limited to patented technologies, trade
+              secrets and etc as this license overules any terms of conditions
+              from them which exposes its limitations and exclusiveness to the
+              general public rendering them void; AND
+        (2.7) **SHALL** license and re-license all your derivatives and
+              contributions under this license (copyleft effect); AND
+  (3) You're free to edit/modify at your own volition as long as you:
+        (3.1) **SHALL AND STRICTLY REQUIRED** to attribute to the copyright
+              holders; AND
+        (3.2) **SHALL** accept that the creators are not responsible for
+              anything of any kind; AND
+        (3.3) **SHALL** retain the copyright notices and effects of the product
+              you use, be it in its raw form (e.g. source codes) or its produced
+              form (compiled software binary files); AND
+        (3.4) **SHALL NOT** use the creators' name, brand, and trademark
+              without their written notices for any endorsement of your
+              derrivatives or uses; AND
+        (3.5) **SHALL AND ARE REQUIRED** to expose and upstream all your
+              changes in source form back to all the copyright holders all the
+              way back to the point of origin (copyleft effect) if you use the
+              product via any its undesignated interface, or creating/adding,
+              editing/modifying, remix/remaster, delete/clean up, or by any
+              other means to part/all of it; AND
+        (3.6) **SHALL** bear FULL RESPONSIBILITIES on your own if you contribute
+              unwarranted data disclosure knowingly or unknowingly into the
+              product such as but not limited to patented technologies, trade
+              secrets and etc as this license overules any terms of conditions
+              from them which exposes its limitations and exclusiveness to the
+              general public rendering them void; AND
+        (3.7) **SHALL** license and re-license all your derivatives and
+              contributions under this license (copyleft effect); AND
+  (4) You're free to remix at your own volition as long as you:
+        (4.1) **SHALL AND STRICTLY REQUIRED** to attribute to the copyright
+              holders; AND
+        (4.2) **SHALL** accept that the creators are not responsible for
+              anything of any kind; AND
+        (4.3) **SHALL** retain the copyright notices and effects of the product
+              you use, be it in its raw form (e.g. source codes) or its produced
+              form (compiled software binary files); AND
+        (4.4) **SHALL NOT** use the creators' name, brand, and trademark
+              without their written notices for any endorsement of your
+              derrivatives or uses; AND
+        (4.5) **SHALL AND ARE REQUIRED** to expose and upstream all your
+              changes in source form back to all the copyright holders all the
+              way back to the point of origin (copyleft effect) if you use the
+              product via any its undesignated interface, or creating/adding,
+              editing/modifying, remix/remaster, delete/clean up, or by any
+              other means to part/all of it; AND
+        (4.6) **SHALL** bear FULL RESPONSIBILITIES on your own if you contribute
+              unwarranted data disclosure knowingly or unknowingly into the
+              product such as but not limited to patented technologies, trade
+              secrets and etc as this license overules any terms of conditions
+              from them which exposes its limitations and exclusiveness to the
+              general public rendering them void; AND
+        (4.7) **SHALL** license and re-license all your derivatives and
+              contributions under this license (copyleft effect); AND
+  (5) You're free to distribute the content at your own volition as long as you:
+        (5.1) **SHALL AND STRICTLY REQUIRED** to attribute to the copyright
+              holders; AND
+        (5.2) **SHALL** accept that the creators are not responsible for
+              anything of any kind; AND
+        (5.3) **SHALL** retain the copyright notices and effects of the product
+              you use, be it in its raw form (e.g. source codes) or its produced
+              form (compiled software binary files); AND
+        (5.4) **SHALL NOT** use the creators' name, brand, and trademark
+              without their written notices for any endorsement of your
+              derrivatives or uses; AND
+        (5.5) **SHALL AND ARE REQUIRED** to expose and upstream all your
+              changes in source form back to all the copyright holders all the
+              way back to the point of origin (copyleft effect) if you use the
+              product via any its undesignated interface, or creating/adding,
+              editing/modifying, remix/remaster, delete/clean up, or by any
+              other means to part/all of it; AND
+        (5.6) **SHALL** bear FULL RESPONSIBILITIES on your own if you contribute
+              unwarranted data disclosure knowingly or unknowingly into the
+              product such as but not limited to patented technologies, trade
+              secrets and etc as this license overules any terms of conditions
+              from them which exposes its limitations and exclusiveness to the
+              general public rendering them void; AND
+        (5.7) **SHALL** license and re-license all your derivatives and
+              contributions under this license (copyleft effect); AND
+  (6) You're free to re-distribute the content at your own volition as long
+      as you:
+        (6.1) **SHALL AND STRICTLY REQUIRED** to attribute to the copyright
+              holders; AND
+        (6.2) **SHALL** accept that the creators are not responsible for
+              anything of any kind; AND
+        (6.3) **SHALL** retain the copyright notices and effects of the product
+              you use, be it in its raw form (e.g. source codes) or its produced
+              form (compiled software binary files); AND
+        (6.4) **SHALL NOT** use the creators' name, brand, and trademark
+              without their written notices for any endorsement of your
+              derrivatives or uses; AND
+        (6.5) **SHALL AND ARE REQUIRED** to expose and upstream all your
+              changes in source form back to all the copyright holders all the
+              way back to the point of origin (copyleft effect) if you use the
+              product via any its undesignated interface, or creating/adding,
+              editing/modifying, remix/remaster, delete/clean up, or by any
+              other means to part/all of it; AND
+        (6.6) **SHALL** bear FULL RESPONSIBILITIES on your own if you contribute
+              unwarranted data disclosure knowingly or unknowingly into the
+              product such as but not limited to patented technologies, trade
+              secrets and etc as this license overules any terms of conditions
+              from them which exposes its limitations and exclusiveness to the
+              general public rendering them void; AND
+        (6.7) **SHALL** license and re-license all your derivatives and
+              contributions under this license (copyleft effect); AND
+message: |-
+  Please cite and reference this repository accordingly.
+authors:
+  - given-names: "Kean Ho"
+    family-names: "Chew"
+    email: "hello@hollowaykeanho.com"
+    affiliation: "Independent"
+    orcid: "https://orcid.org/0000-0003-4202-4863"
+keywords:
+  - "Product"
+  - "License"
+  - "Open Source"
+  - "General Public"
+  - "General Public Open Source License"
