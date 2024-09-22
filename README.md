@@ -210,7 +210,7 @@ do the following:
 The latest license files shall be referenced and be downloadable from:
 
 ```
-https://doi.org/TBD
+https://doi.org/10.5281/zenodo.13825030
 ```
 
 
@@ -235,7 +235,7 @@ Licensed under the (Holloway) Chew, Kean Ho’s General Public Open Source Licen
 (the "License"); you may not use this file except in compliance with the
 License. You may obtain a copy of the License at
 
-                https://doi.org/TBD
+                 https://doi.org/10.5281/zenodo.13825030
 
 {Under this License, the Content of this section is designated as a general
 public friendly externally usable Interface where its copyleft effect shall
