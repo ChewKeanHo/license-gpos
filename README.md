@@ -1,5 +1,18 @@
 # (Holloway) Chew, Kean Ho's General Public Open Source License
 
+> **IMPORTANT NOTICE**
+>
+> **THIS REPOSITORY IS FULLY DISCONTINUED AND IS ARCHIVED ONLY FOR EDUCATION USE**
+>
+> After obtaining feedbacks from Open Source Initiatives and deep considerations
+> with the author's legal counterparts, this license is decided to be
+> dicontinued as there is already an initiative dealing with copyleft open
+> source license. Moreover, other commericalization licenses are far more
+> important that this license economically.
+>
+> Hence, the decision is made.
+
+
 A published general public friendly open-source license
 **with strong copyleft effect** originally for
 [(Holloway) Chew, Kean Ho](https://github.com/ChewKeanHo) but is now open to all
